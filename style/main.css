@@ -352,6 +352,51 @@ body {
 
 
 
+/*! Privacy Policy */
+.privacy-policy {
+    width: 100%;
+    border-radius: 20px;
+    padding: 1.7rem;
+    height: auto;
+}
+
+.privacy-policy .information h3 {
+    font-family: var(--lora);
+    font-size: var(--f2);
+    margin-bottom: 6px;
+}
+
+.privacy-policy p {
+    font-family: var(--lato);
+    font-size: var(--f1);
+    margin-top: 15px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.privacy-policy h2 {
+    font-family: var(--lora);
+    font-size: var(--f3);
+    margin-bottom: 10px;
+    font-weight: 300;
+}
+
+.privacy-policy h2 span {
+    font-weight: 700;
+}
+
+.privacy-policy ul {
+    margin-bottom: 10px;
+}
+
+.backhome {
+    margin-top: 5ren;
+    margin-bottom: 5rem;
+    width: 100%;
+    border-radius: 20px;
+    padding: 1.7rem;
+    height: auto;
+}
 
 
 
